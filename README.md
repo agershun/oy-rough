@@ -4,6 +4,8 @@ Rough is a plugin for [Figma](https://figma.com)  that lets you to convert any o
 
 The plugin can convert any Figma primitives including lines, curves, arcs, polygons, circles, ellipses, and paths. 
 
+You can download Rough Figma plugin at https://www.figma.com/community/plugin/908327335402084440
+
 ## How to use?
 
 Just simply select object on the screen and run the plugin from menu "Plugins / Rough".
