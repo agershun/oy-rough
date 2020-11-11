@@ -11,6 +11,12 @@ Then select parameters and press "Apply" button.
 
 The system keeps the stroke and fill styles and width.
 
+## Acknoledgements
+
+The plugin is based on the legendary `Rough.js` library (https://roughjs.com/) by Preet Shihn. Thank you!  
+
+Many thanks to developers of Figma, Vue, Vue-toolbar, Gulp and many many other people of JavaScript community.
+
 ## Comments and feedback
 
 Please, let your comments, bugs and any other issues at special Rough repository https://github.com/agershun/oy-rough/issues
